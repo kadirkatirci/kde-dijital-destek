@@ -1,0 +1,318 @@
+{
+  "title": "Dersin Dijital Desteği",
+  "chapter_title": "Alay Etmemeli, Arkadaş Edinmeli",
+  "grade": "3. sınıf",
+  "intro": "Bu bölümün ek etkinliklerini, çoğaltılabilir çalışma kâğıtlarını ve öğretici desteğini burada bulabilirsiniz. Sürenize ve grubunuzun ihtiyacına uygun olanı seçip ders öncesinde inceleyebilirsiniz.",
+  "usage_note": "Etkinliklerden birini kitaptaki uygulamaya alternatif olarak, bir sonraki buluşmada ya da kısa bir pekiştirme çalışması için seçebilirsiniz. Dersin ana anlatımı ve temel uygulaması kitapta yer alır.",
+  "print_callout": {
+    "title": "Dersin Dijital Desteği",
+    "body": "Ek etkinlikler, çalışma kâğıtları ve öğretici desteği için karekodu okutun. Güncel kaynaklardan dersinize uygun olanı seçin.",
+    "small_label": "Etkinlikler · Çalışma kâğıtları · Ek okumalar"
+  },
+  "categories": [
+    {
+      "id": "etkinlikler",
+      "title": "Etkinlik seçenekleri",
+      "description": "Sürenize ve grubunuza göre seçebileceğiniz üç farklı uygulama."
+    },
+    {
+      "id": "calisma-kagitlari",
+      "title": "Çalışma kâğıtları",
+      "description": "Derste çoğaltıp kullanabileceğiniz etkinlik kartları ve kısa cevap alanları."
+    },
+    {
+      "id": "ogretici-destegi",
+      "title": "Öğretici desteği",
+      "description": "Örnek cevaplar, çocukların soruları, uygulama ipuçları ve öğrenme göstergeleri."
+    },
+    {
+      "id": "okumalar",
+      "title": "Okuma ve kaynaklar",
+      "description": "Bölümün kaynak metinleri ve ders öncesinde yararlanabileceğiniz ek okuma."
+    }
+  ],
+  "outcomes": [
+    {
+      "id": "kazanim-1",
+      "text": "Arkadaşlığın önemini ve sağlıklı arkadaşlık ilişkilerini güçlendiren davranışları örneklerle açıklar."
+    },
+    {
+      "id": "kazanim-2",
+      "text": "Arkadaş edinirken ve arkadaş seçerken karşılıklı saygı, güven ve farklılıklara değer vermenin önemini açıklar."
+    },
+    {
+      "id": "kazanim-3",
+      "text": "Alay etme ve dışlama gibi davranışların arkadaşlık ilişkilerine etkilerini fark ederek saygılı ve destekleyici davranışlar önerir."
+    }
+  ],
+  "activities": [
+    {
+      "id": "birlikte-bir-sey-yapalim",
+      "title": "Birlikte Bir Şey Yapalım",
+      "summary": "Farklı ilgi alanlarından ortak bir oyun veya çalışma fikrine ulaşın; saygılı bir davet cümlesi deneyin.",
+      "duration": "6 dakika",
+      "grouping": "İkili konuşma ve kısa paylaşım",
+      "purpose": "Arkadaşlığın birlikte öğrenme ve paylaşma yönünü fark etmek; farklı ilgi alanlarına saygı duyarak ilişki başlatmak.",
+      "materials": [
+        "Aşağıdaki kısa durumun okunması veya tahtaya yazılması",
+        "İstenirse boş kâğıt ve kalem"
+      ],
+      "scenario": "Bir çocuk resim yapmayı, diğeri hikâye anlatmayı seviyor. İkisi de birlikte bir şey yapmak istiyor. İkisinin de ilgisini gözeten bir öneri nasıl olabilir?",
+      "steps": [
+        {
+          "title": "Durumu dinleyelim",
+          "duration": "1 dk",
+          "instruction": "Kurgusal durumu okuyun. Çocukların neyi sevdiğini ve ortak isteğini belirleyin."
+        },
+        {
+          "title": "Ortak bir fikir bulalım",
+          "duration": "2 dk",
+          "instruction": "İkililer, her iki çocuğun ilgisine de yer veren bir oyun veya çalışma düşünsün. Önerinin nasıl birlikte yapılacağını bir cümleyle anlatsın."
+        },
+        {
+          "title": "Davet edelim ve dinleyelim",
+          "duration": "2 dk",
+          "instruction": "İkililerden biri “İstersen birlikte…” diye davet etsin; diğeri kabul etsin veya başka bir öneri sunsun. Sonra rolleri değiştirin. Karşıdakinin önerisini dinleyerek ortak bir fikirde buluşmayı deneyin."
+        },
+        {
+          "title": "Nedenini söyleyelim",
+          "duration": "1 dk",
+          "instruction": "Bir veya iki gönüllü ikili önerisini paylaşsın. Her iki çocuğun isteğine nasıl yer açtıklarını sorun."
+        }
+      ],
+      "reflection_questions": [
+        "Önerinizde iki çocuğun da ilgisine nasıl yer verdiniz?",
+        "Birlikte bir şey yapmak arkadaşlığı nasıl güçlendirebilir?"
+      ],
+      "adaptations": {
+        "support": "“Birlikte… yapabiliriz; sen ne dersin?” başlangıcını sunun. Öğrenci önerisini çizebilir veya öğreticiye söyleyebilir.",
+        "extend": "İlk öneri kabul edilmezse kullanılabilecek ikinci, saygılı bir davet cümlesi oluşturun."
+      },
+      "teacher_note": "Resimli bir hikâye hazırlamak uygun örneklerden biridir; başka ortak fikirler de kabul edilir. Herkesin aynı etkinliği sevmesi beklenmez. “Şimdi istemiyorum” cevabına saygı gösterilir.",
+      "outcome_links": [
+        {
+          "outcome_id": "kazanim-1",
+          "connection": "Birlikte oyun, öğrenme ve paylaşmanın arkadaşlığa katkısını örnekler."
+        },
+        {
+          "outcome_id": "kazanim-2",
+          "connection": "Farklı ilgi alanlarına yer veren bir davet oluşturur; karşılıklı seçime saygı gösterir."
+        }
+      ],
+      "worksheet": {
+        "title": "Ortak Fikrimiz",
+        "fields": [
+          "Birinci çocuğun sevdiği şey",
+          "İkinci çocuğun sevdiği şey",
+          "Birlikte yapabilecekleri şey",
+          "Davet cümlemiz",
+          "Bu fikirde ikisine de nasıl yer verdik?"
+        ],
+        "cards": []
+      }
+    },
+    {
+      "id": "arkadaslikta-neye-deger-veririm",
+      "title": "Arkadaşlıkta Neye Değer Veririm?",
+      "summary": "Davranış kartları arasından güven veren örnekler seçin; neden önemli olduklarını açıklayın ve incitici bir davranışa başka bir yol bulun.",
+      "duration": "12 dakika",
+      "grouping": "İkili çalışma",
+      "purpose": "Arkadaşlıkta dürüstlük, dinleme, saygı ve güvenin önemini davranış örnekleriyle açıklamak.",
+      "materials": [
+        "Altı davranış kartı; kartlar kesilebilir, tahtaya yazılabilir veya sırayla okunabilir",
+        "İkili başına bir çalışma kâğıdı ve kalem"
+      ],
+      "steps": [
+        {
+          "title": "Kartları okuyalım",
+          "duration": "2 dk",
+          "instruction": "Altı davranış kartını birlikte okuyun. Anlaşılmayan ifadeleri kısa bir örnekle açıklayın."
+        },
+        {
+          "title": "Değer verdiğimizi seçelim",
+          "duration": "3 dk",
+          "instruction": "Her ikili, arkadaşlıkta güven veren iki davranış seçsin. Her biri için “Bu davranışa önem veririm; çünkü…” cümlesini tamamlasın."
+        },
+        {
+          "title": "Başka bir yol bulalım",
+          "duration": "3 dk",
+          "instruction": "İncitici bir davranış içeren kartlardan birini seçin. Aynı durumda kullanılabilecek saygılı bir davranış yazın, çizin veya söyleyin."
+        },
+        {
+          "title": "Gerekçemizi paylaşalım",
+          "duration": "3 dk",
+          "instruction": "İki veya üç gönüllü ikili bir seçimini ve gerekçesini paylaşsın. Dinleme, dürüstlük, saygı ve güvenle bağını birlikte bulun."
+        },
+        {
+          "title": "Toparlayalım",
+          "duration": "1 dk",
+          "instruction": "“Arkadaşlıkta görünüşten çok davranışlara bakmak neden önemlidir?” sorusuyla çalışmayı tamamlayın."
+        }
+      ],
+      "reflection_questions": [
+        "Seçtiğiniz davranış neden güven verir?",
+        "İncitici davranışın yerine hangi davranışı önerdiniz?"
+      ],
+      "adaptations": {
+        "support": "Kartları sesli okuyun. İkililer, iki güven veren ve bir değiştirilecek davranışı öğreticiyle birlikte ele alabilir; gerekçelerini sözlü söyleyebilir.",
+        "extend": "Seçilen bir davranışın oyun sırasında ve grup çalışmasında nasıl görünebileceğine birer örnek verin."
+      },
+      "teacher_note": "Kartlarda anlatılan davranışları konuşun; sınıftaki çocukları seçtirmeyin veya sıralatmayın. Karşıdaki istemediğini söylediğinde ısrarı bırakmak ve sınırına saygı göstermek üzerinde durun. İncitici davranış sürerse ya da çocuk kendini güvende hissetmezse yetişkin desteğine başvurulur.",
+      "outcome_links": [
+        {
+          "outcome_id": "kazanim-1",
+          "connection": "Sağlıklı arkadaşlığı güçlendiren davranışları örneklerle açıklar."
+        },
+        {
+          "outcome_id": "kazanim-2",
+          "connection": "Arkadaşlıkta önem verdiği davranışı saygı ve güven üzerinden gerekçelendirir."
+        },
+        {
+          "outcome_id": "kazanim-3",
+          "connection": "İncitici bir davranışın yerine saygılı ve destekleyici bir karşılık önerir."
+        }
+      ],
+      "worksheet": {
+        "title": "Davranış ve Gerekçem",
+        "fields": [
+          "Seçtiğimiz birinci davranış ve önemi",
+          "Seçtiğimiz ikinci davranış ve önemi",
+          "Değiştirmek istediğimiz davranış",
+          "Onun yerine önerdiğimiz davranış"
+        ],
+        "cards": [
+          "Arkadaşım konuşurken sözünü bitirmesini beklerim.",
+          "Sevdiğimiz oyunlar farklıysa sırayla seçim yapmayı öneririm.",
+          "Sözümü tutamadığımda açıklar, hatamı telafi etmeye çalışırım.",
+          "Bir arkadaşımın yanlış cevabını herkese anlatıp gülerim.",
+          "Arkadaşım istemediğini söylese de benim seçtiğim oyunu oynaması için ısrar ederim.",
+          "Arkadaşım hoşlanmadığını söylediğinde o lakabı kullanmayı bırakırım."
+        ]
+      }
+    },
+    {
+      "id": "kucuk-bir-arkadaslik-adimi",
+      "title": "Küçük Bir Arkadaşlık Adımı",
+      "summary": "Evde veya okulda bir arkadaşlık davranışı seçin, uygun bir anda deneyin ve katkısını kısa bir ifadeyle düşünün.",
+      "duration": "Hazırlık 2 dk · gün içinde bir küçük adım · paylaşım 3 dk",
+      "grouping": "Bireysel uygulama ve gönüllü paylaşım",
+      "purpose": "Arkadaşlığı güçlendiren dinleme, davet etme veya sınıra saygı gösterme davranışını günlük hayatla ilişkilendirmek.",
+      "materials": [
+        "Küçük bir kâğıt veya aşağıdaki kısa düşünme alanı",
+        "Kalem; istenirse boya kalemi"
+      ],
+      "choices": [
+        "Bir arkadaşımı veya yakınımı sözünü kesmeden dinlemeyi deneyeceğim.",
+        "Birlikte yapılabilecek bir oyun veya çalışma önereceğim; onun fikrini de soracağım.",
+        "Birisi şimdi katılmak istemediğini söylerse isteğine saygı göstereceğim."
+      ],
+      "steps": [
+        {
+          "title": "Bir davranış seçelim",
+          "duration": "2 dk",
+          "instruction": "Üç seçenekten birini seçin. Öğrenci, bunu hangi uygun anda deneyebileceğini düşünsün. Gerçek kişi adı yazmadan küçük bir plan oluştursun."
+        },
+        {
+          "title": "Uygun bir anda deneyelim",
+          "duration": "Gün içinde",
+          "instruction": "Seçilen davranışı evde bir yakınıyla veya okulda bir arkadaşıyla denesin. Karşıdakinin tercihine göre davranışını uyarlasın. Uygun fırsat bulamazsa kurgusal bir durumu çizerek ya da anlatarak düşünebilir."
+        },
+        {
+          "title": "Kısa bir not alalım",
+          "duration": "Paylaşımdan önce",
+          "instruction": "Hangi davranışı denediğini veya kurguladığını ve bunun arkadaşlığa nasıl katkı sağlayabileceğini kısa bir cümleyle ya da resimle ifade etsin."
+        },
+        {
+          "title": "Öğrendiğimizi paylaşalım",
+          "duration": "3 dk",
+          "instruction": "Sonraki buluşmada isteyen öğrenciler, kişi adı ve özel ayrıntı vermeden seçtikleri davranışı anlatsın. Davranışın arkadaşlığa katkısını ve yeniden deneseler ne yapacaklarını konuşun."
+        }
+      ],
+      "reflection_questions": [
+        "Bu davranış arkadaşlığı nasıl güçlendirebilir?",
+        "Karşındaki kişi istemediğini söylerse nasıl karşılık verirsin?"
+      ],
+      "adaptations": {
+        "support": "“Ben… davranışını seçtim. Bu davranış… için önemlidir.” başlangıcını sunun. Çizim ve sözlü anlatımı da kabul edin.",
+        "extend": "Aynı davranışı başka bir ortamda nasıl uygulayabileceğini anlatsın; evde dinlemek ile grup çalışmasında dinlemeyi karşılaştırabilir."
+      },
+      "teacher_note": "Çocuğun seçtiği davranışa ve açıklamasına bakın; karşıdaki kişinin daveti kabul edip etmemesi başarı ölçütü değildir. Paylaşım gönüllüdür. Bir çocuk incitici bir durumdan söz ederse onu dinleyin ve gerektiğinde uygun yetişkin desteğini sağlayın.",
+      "outcome_links": [
+        {
+          "outcome_id": "kazanim-1",
+          "connection": "Arkadaşlığı güçlendiren davranışın günlük hayattaki katkısını açıklar."
+        },
+        {
+          "outcome_id": "kazanim-2",
+          "connection": "Dinleme ve karşılıklı tercihe saygı gösterme üzerinde düşünür."
+        }
+      ],
+      "worksheet": {
+        "title": "Benim Küçük Adımım",
+        "fields": [
+          "Seçtiğim davranış",
+          "Denediğim veya kurguladığım durum",
+          "Bu davranışın arkadaşlığa katkısı",
+          "Yeniden denesem ne yaparım?"
+        ],
+        "cards": []
+      }
+    }
+  ],
+  "readings": [
+    {
+      "id": "hucurat-49-11",
+      "title": "Hucurât 49/11",
+      "publisher": "Diyanet İşleri Başkanlığı",
+      "purpose": "Bölümde kullanılan ayet seçkisinin mealine başvurmak ve alay etmeme mesajını bütünlüğü içinde okumak.",
+      "links": [
+        {
+          "label": "Meali aç",
+          "url": "https://dijital.diyanet.gov.tr/File/Download?id=430&path=430_1.pdf#page=636"
+        }
+      ]
+    },
+    {
+      "id": "hadis-guven",
+      "title": "Söz ve davranışta güven",
+      "publisher": "Diyanet İşleri Başkanlığı · Hadislerle İslâm",
+      "purpose": "Buhârî, Îmân, 4; hadis no. 10 ile ilişkilendirilen güven mesajını öğretici hazırlığında incelemek.",
+      "links": [
+        {
+          "label": "Hadis kaynağını aç",
+          "url": "https://hadislerleislam.diyanet.gov.tr/sayfa.php?CILT=3&SAYFA=562"
+        }
+      ]
+    },
+    {
+      "id": "risale-muhabbet",
+      "title": "Muhabbet ve husumet",
+      "publisher": "Said Nursî · Hutbe-i Şamiye, “Hakikat”",
+      "purpose": "Bölümdeki sevgi ve düşmanlık açıklamasının dayandığı seçkiyi ilgili sayfalardan okumak.",
+      "links": [
+        {
+          "label": "92. sayfayı aç",
+          "url": "https://kulliyat.risaleinurenstitusu.org/hutbe-i-samiye/hakikat/92"
+        },
+        {
+          "label": "93. sayfayı aç",
+          "url": "https://kulliyat.risaleinurenstitusu.org/hutbe-i-samiye/hakikat/93"
+        }
+      ]
+    },
+    {
+      "id": "unicef-akran-zorbaligi",
+      "title": "Akran zorbalığı nedir ve nasıl engellenir?",
+      "publisher": "UNICEF Türkiye",
+      "date": "30 Temmuz 2024",
+      "purpose": "Çocuğu dinleme, güvenini destekleme ve okulla iş birliği konusunda ders öncesinde yararlanmak.",
+      "links": [
+        {
+          "label": "Yazıyı aç",
+          "url": "https://www.unicef.org/turkiye/hikayeler/akran-zorbal%C4%B1%C4%9F%C4%B1-nedir-ve-nas%C4%B1l-engellenir"
+        }
+      ]
+    }
+  ],
+  "support_description": "On sorunun örnek cevaplarını, ana etkinliğin örnek ürünlerini, çocukların sorularına karşılıkları ve uygulama ipuçlarını birlikte inceleyin."
+}
